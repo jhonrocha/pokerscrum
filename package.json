@@ -1,0 +1,17 @@
+{
+  "name": "poker",
+  "version": "0.0.1",
+  "description": "My ScrumPoker Express Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhon Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0",
+    "ws": "^7.3.1"
+  }
+}
